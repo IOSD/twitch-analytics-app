@@ -27,8 +27,20 @@ Task is to create an analytics web app just like Google Analytics for twitch cha
 
 [Twitch Extension Analytics](https://dev.twitch.tv/docs/api/reference/#get-extension-analytics)
 
+**Tutorials for different web stacks:**
+- MEAN Stack
+  - [Mosh](https://www.youtube.com/watch?v=k5E2AVpwsko)
+  - [Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
+- MERN Stack
+  - [FreeCodeCamp](https://learn.freecodecamp.org/)
+- Ruby on Rails
+   - [Overview](https://www.youtube.com/watch?v=pPy0GQJLZUM)
+- PHP
+   - [Derek Banas](https://www.youtube.com/watch?v=mpQts3ezPVg)
+
 
 ### Senior Mentors for the Project
 
 * [Deepanshi Bansal](https://github.com/deepanshib)
 * [Sparsh Wadhwa](https://github.com/SparshWadhwa)
+* [Dhruv Ramdev](http://github.com/dhruvramdev)
